@@ -1,6 +1,6 @@
 # AGENTS.md — Project Rules for AI Coding Agents
 # Read by Antigravity (v1.20.3+), Cursor, and Claude Code.
-# Place this file at the project root.
+# Place this file at the project root
 
 ## Project Overview
 - **Event:** Innovation Unbound — CodeChef VIT Chennai Chapter, 24-hour AI/tech hackathon
